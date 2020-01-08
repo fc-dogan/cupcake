@@ -22,7 +22,54 @@ h1 {
 }
 
 .coco {
-  color: brown;
+
   width: 300px;
   float: left;
+  background-color: #c7adae;
+  margin: 12px;
+  padding: 5px;
+  border: solid 3px;
+  text-align: center;
+}
+
+.sidebar {
+  border: solid 2px;
+  margin: 11px;
+  padding:5px;
+  width: 300px;
+  background-color: #f1f1f1;
+  float: left;
+  text-align: center;
+}
+
+.uni-border {
+  background-color: #dbb2ed;
+  margin: 12px;
+  padding: 5px;
+  border: solid 3px;
+  width: 300px;
+  float: left;
+  text-align: center;
+}
+
+.strawberry {
+  background-color: #f2a5a9;
+  margin: 12px;
+  padding: 5px;
+  border: solid 3px;
+  width: 300px;
+  float: left;
+  text-align: center;
+
+}
+
+.delight {
+  background-color: aqua;
+  color: blue;
+  font-style: italic;
+}
+
+.hello {
+  font-size: 200px;
+  background-color: aqua;
 }
