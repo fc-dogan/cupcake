@@ -1,0 +1,28 @@
+img {
+  height: 250px;
+  width: 250px;
+  border: solid 5px pink;
+  padding: 5px;
+  margin: 11px;
+  border-radius: 0 50px 0 50px;
+}
+
+body {
+  background-color: #c4f7ff;
+}
+
+h1 {
+  font-size: 60px;
+  color: blueviolet;
+  font-family: 'Courier New', Courier, monospace;
+  text-align: center;
+  font-style: italic;
+  background-color: beige;
+  margin: 50px 20px 50px 20px ;
+}
+
+.coco {
+  color: brown;
+  width: 300px;
+  float: left;
+}
